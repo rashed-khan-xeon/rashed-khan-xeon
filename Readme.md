@@ -1,5 +1,3 @@
-# 👋 Hi there! I'm Rashed Khan Arif
-
 I'm a passionate **Full-Stack Software Developer** and **Software Product Designer** with over 7 years of experience building scalable web and mobile applications. I specialize in designing user-focused digital products and delivering robust backend solutions.
 
 ---
@@ -35,7 +33,7 @@ I'm a passionate **Full-Stack Software Developer** and **Software Product Design
 ### 📫 Let's Connect
 
 - 🌐 www.rashedkhan.com
-- 💼 [LinkedIn Profile]  
+- 💼 https://www.linkedin.com/in/rashedkhanarif 
 - 📧 arifkhan0713@gmail.com 
 - 📝 https://thoughts.rashedkhan.com
 
