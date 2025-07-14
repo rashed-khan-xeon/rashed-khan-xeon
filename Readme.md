@@ -35,7 +35,7 @@ I'm a passionate **Full-Stack Software Developer** and **Software Product Design
 - 🌐 www.rashedkhan.com
 - 💼 https://www.linkedin.com/in/rashedkhanarif 
 - 📧 arifkhan0713@gmail.com 
-- 📝 https://thoughts.rashedkhan.com
+- 📝 https://introspect.rashedkhan.com
 
 ---
 
