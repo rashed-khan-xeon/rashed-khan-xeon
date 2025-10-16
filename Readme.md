@@ -1,4 +1,4 @@
-I'm a passionate **Full-Stack Software Developer** and **Software Product Designer** with over 7 years of experience building scalable web and mobile applications. I specialize in designing user-focused digital products and delivering robust backend solutions.
+I'm a passionate **Full-Stack Software Developer** and **Software Product Designer** with over 10 years of experience building scalable web and mobile applications. I specialize in designing user-focused digital products and delivering robust backend solutions.
 
 ---
 
